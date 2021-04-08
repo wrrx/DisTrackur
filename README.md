@@ -6,7 +6,7 @@ DisTracker as of right now has one purpose, and that is logging. </br>
 As this script is made for more specific targets, one instance of this script logs all messages from the specified user. </br>
 Obviously, it will work in dm's, groups, and (mutual) servers.
 
-DisTrackur will also relay the time each message has been sent, along with storing all data in a .txt file, for accurate visualation.
+DisTrackur will also relay the time each message has been sent, for more accurate visualation.
 NOTE: "discord.py" is a required module to run this script. It will not run without it!
 
 # Features
