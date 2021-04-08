@@ -39,9 +39,20 @@ Simply just execute 'DisTrackur.py', and assuming everything went right, it'll s
 This script was not made for stalking or harrasement. It's made for OSINT and information gathering. </br>
 (Yes, there is a difference)
 
-Most important of all, this script falls into the catagory of a self bot. These are a violation of Discord's TOS </br>
+Most important of all, this script falls into the catagory of a self bot. These are a violation of Discord's TOS, </br>
 and they will terminate the account if a self bot is found being ran on the account. </br>
 Use an account you don't care about and is willing the risk of termination. </br>
 AS LONG, as you don't tell anyone or spread the word your user should be perfectly safe from termination. Be careful.
+
+# Retrieving Discord token
+As mentioned earlier, your Discord token is needed for this script to run correctly. </br>
+Getting it is easy, and it starts off with logging onto discord in an online browser. </br>
+After your logged on, right click of F12 to open Inspect Element. </br>
+Towards/at the top, go into the 'Application' tab, then click on 'https://discord.com' in 'Local Storage'. (on the left) </br>
+You should now see several columns of Keys, along with Values on the right of them. You should then notice a search bar on the top. </br>
+Just enter 'token' in that search bar, and your discord should pop up. Now you can simply copy and paste it.
+
+NOTE: This guide was made for the Chrome browser. It has not been tested on any other!!!
+
 
 ![Logo](https://github.com/9socket/DisTrackur/blob/main/logo.png)
