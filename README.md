@@ -50,7 +50,7 @@ Getting it is easy, and it starts off with logging onto discord in an online bro
 After your logged on, right click of F12 to open Inspect Element. </br>
 Towards/at the top, go into the 'Application' tab, then click on 'https://discord.com' in 'Local Storage'. (on the left) </br>
 You should now see several columns of Keys, along with Values on the right of them. You should then notice a search bar on the top. </br>
-Just enter 'token' in that search bar, and your discord should pop up. Now you can simply copy and paste it.
+Just enter 'token' in that search bar, and your token should pop up. Now you can simply copy and paste it.
 
 NOTE: This guide was made for the Chrome browser. It has not been tested on any other!!!
 
