@@ -7,13 +7,22 @@ As this script is made for more specific targets, one instance of this script lo
 Obviously, it will work in dm's, groups, and (mutual) servers.
 
 DisTrackur will also relay the time each message has been sent, along with storing all data in a .txt file, for accurate visualation.
+NOTE: "discord.py" is a required module to run this script. It will not run without it!
+
+# Features
+1. Logging and keeping track of users messages. </br>
+2. Fast and accurate tracking. </br>
+3. Stores all logs in .txt file, along with time. </br>
+4. Quick and easy to set up. </br>
+5. Easy to edit and read. </br>
+6. Does not inform the user about data logging.
 
 # How to set it up?
 DisTrackur is simple to set up. </br>
 First git clone, or download the zip file and extract it onto your system. </br>
 Next you will notice 3 .py (python) files. 'TARGETID', 'TOKEN', and the main file itself, 'DisTrackur'.
 
-First you will need the discord token of the user your using to listen onto your target. </br>
+Now, you will need the discord token of the user your using to listen onto your target. </br>
 (guide for retreiving your discord token is further down)
 
 Next, you will open the 'TOKEN.py' file, and see an empty variable labled 'token'. </br>
@@ -23,9 +32,16 @@ After that, you will need the user id of your target. Simply right click their u
 'Copy ID'. Now open 'TARGETID.py', and paste the id in the empty variable, 'targetid'. </br>
 NOTE: Do not quote the ID in the targetid.
 
-Now you have your account, and the targets account linked to the script.  </br>
+Now you have your account, and the targets account linked to the script. </br>
 Simply just execute 'DisTrackur.py', and assuming everything went right, it'll start logging.
 
+# Disclaimer
+This script was not made for stalking or harrasement. It's made for OSINT and information gathering. </br>
+(Yes, there is a difference)
 
+Most important of all, this script falls into the catagory of a self bot. These are a violation of Discord's TOS </br>
+and they will terminate the account if a self bot is found being ran on the account. </br>
+Use an account you don't care about and is willing the risk of termination. </br>
+AS LONG, as you don't tell anyone or spread the word your user should be perfectly safe from termination. Be careful.
 
 ![Logo](https://github.com/9socket/DisTrackur/blob/main/logo.png)
