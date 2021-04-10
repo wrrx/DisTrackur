@@ -9,6 +9,9 @@ Obviously, it will work in dm's, groups, and (mutual) servers.
 DisTrackur will also relay the time each message has been sent, for more accurate visualation.
 NOTE: "discord.py" is a required module to run this script. It will not run without it!
 
+# Example
+![Logo](https://github.com/9socket/DisTrackur/blob/main/example/DisTrackur_example.png)****
+
 # Features
 1. Logging and keeping track of users messages. </br>
 2. Fast and accurate tracking. </br>
@@ -54,4 +57,4 @@ Just enter 'token' in that search bar, and your token should pop up. Now you can
 NOTE: This guide was made for the Chrome browser. It has not been tested on any other!!!
 
 
-![Logo](https://github.com/9socket/DisTrackur/blob/main/logo.png)
+
