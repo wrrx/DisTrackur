@@ -1,5 +1,5 @@
 # DisTrackur
-DisTrackur is a .py script made for information gathering off users on the Platform, Discord.  
+DisTrackur is a .py script made for information gathering off users on the platform, Discord.  
 
 # What does it do?
 DisTrackur as of right now has one purpose, and that is logging. </br>
