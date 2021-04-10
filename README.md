@@ -12,10 +12,9 @@ NOTE: "discord.py" is a required module to run this script. It will not run with
 # Features
 1. Logging and keeping track of users messages. </br>
 2. Fast and accurate tracking. </br>
-3. Stores all logs in .txt file, along with time. (Will be added very soon)  </br>
-4. Quick and easy to set up. </br>
-5. Easy to edit and read. </br>
-6. Does not inform the user about data logging.
+3. Quick and easy to set up. </br>
+4. Easy to edit and read. </br>
+5. Does not inform the user about data logging.
 
 # How to set it up?
 DisTrackur is simple to set up. </br>
