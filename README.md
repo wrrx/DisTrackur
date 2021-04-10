@@ -2,7 +2,7 @@
 DisTrackur is a .py script made for information gathering off users on the Platform, Discord.  
 
 # What does it do?
-DisTracker as of right now has one purpose, and that is logging. </br>
+DisTrackur as of right now has one purpose, and that is logging. </br>
 As this script is made for more specific targets, one instance of this script logs all messages from the specified user. </br>
 Obviously, it will work in dm's, groups, and (mutual) servers.
 
