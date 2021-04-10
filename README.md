@@ -10,7 +10,7 @@ DisTrackur will also relay the time each message has been sent, for more accurat
 NOTE: "discord.py" is a required module to run this script. It will not run without it!
 
 # Example
-![Logo](https://github.com/9socket/DisTrackur/blob/main/example/DisTrackur_example.png)****
+![Logo](https://github.com/9socket/DisTrackur/blob/main/example/DisTrackur_example.png)
 
 # Features
 1. Logging and keeping track of users messages. </br>
