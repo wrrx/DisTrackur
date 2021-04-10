@@ -30,7 +30,7 @@ Now, you will need the discord token of the user your using to listen onto your 
 Next, you will open the 'TOKEN.py' file, and see an empty variable labled 'token'. </br>
 This is where you will enter your discord token. Now your user will read/run commands.
 
-After that, you will need the user id of your target. Simply right click their username and </br>
+After that, you will need the user id of your target. Simply right click their profile and </br>
 'Copy ID'. Now open 'TARGETID.py', and paste the id in the empty variable, 'targetid'. </br>
 NOTE: Do not quote the ID in the targetid.
 
