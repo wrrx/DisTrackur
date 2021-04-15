@@ -49,7 +49,7 @@ AS LONG, as you don't tell anyone or spread the word your user should be perfect
 # Retrieving Discord token
 As mentioned earlier, your Discord token is needed for this script to run correctly. </br>
 Getting it is easy, and it starts off with logging onto discord in an online browser. </br>
-After your logged on, right click of F12 to open Inspect Element. </br>
+After your logged on, right click or F12 to open Inspect Element. </br>
 Towards/at the top, go into the 'Application' tab, then click on 'https://discord.com' in 'Local Storage'. (on the left) </br>
 You should now see several columns of Keys, along with Values on the right of them. You should then notice a search bar on the top. </br>
 Just enter 'token' in that search bar, and your token should pop up. Now you can simply copy and paste it.
